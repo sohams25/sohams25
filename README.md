@@ -1,17 +1,22 @@
-## Hello there! 👋
+# Soham Shinde
 
-I am Soham, an Electronics and Communication Engineering graduate from BITS Pilani, Goa. I build at the intersection of Computer Vision and Edge AI deployment.
+Machine Learning Engineer at Clutterbot | Edge ML & Physical AI
 
-Currently, I am a Machine Learning Engineer at Clutterbot Technologies, focusing on perception pipelines for indoor robotics. My research journey includes working on Affective Computing in Education at NTU, Singapore, Artwork Scene Understanding at TCS Research, and Cultural Heritage Preservation through deep learning at CSIR-CEERI, Pilani.
+I'm a Machine Learning Engineer at Clutterbot working on Edge ML and Physical AI. I build the data-processing pipeline that turns SO-101 robot demonstrations into training-ready datasets, and work on vision-model deployment on Qualcomm and NVIDIA hardware.
 
-I am particularly passionate about hardware-specific optimization for NVIDIA Jetson and Qualcomm platforms. Whether it was leading the autonomous subsystem for Project Kratos or engineering smart-glasses in Project Visio, I thrive on making models run efficiently in resource-constrained environments.
+## What I work on
 
-Outside of work, you will usually find me brewing Blue Tokai in a French press, bouldering, or planning for treks in the Himalayas.
+- Physical AI data infrastructure: MCAP-to-LeRobot conversion, temporal alignment, preprocessing, and validation for SO-101 demonstrations.
+- Robot learning: training and deployment experiments with GR00T, SmolVLA and ACT-based policies, including real/synthetic data mixtures and SkillGen.
+- Edge perception: vision deployment on Qualcomm and NVIDIA platforms, GStreamer pipelines, marker detection and camera calibration.
 
-If you are looking to collaborate on any AI, CV, or robotics-based projects, feel free to reach out! =)
+I'm interested in model optimisation, quantisation, and making inference work within device constraints.
 
-Email: [sohams.web@gmail.com](mailto:sohams.web@gmail.com)
+## Selected work
 
----
+- [trtcheck](https://github.com/sohams25/trtcheck): ONNX-to-TensorRT compatibility checks, validated graph fixes, and optional engine-build verification.
+- [CloSe++](https://github.com/sohams25/CloSe-Plus-Plus): work on fine-grained clothing segmentation from 3D point clouds.
 
-Building for the edge, one optimization at a time.
+Previously worked on video understanding at NTU, SAM-based annotation tools at TCS Research, and mural restoration at CSIR-CEERI. B.E. in Electronics and Communication Engineering with a Data Science minor, BITS Pilani Goa.
+
+[Portfolio](https://sohamshinde.com/) · [LinkedIn](https://www.linkedin.com/in/sohams2k3/) · [Email](mailto:sohams.web@gmail.com)
